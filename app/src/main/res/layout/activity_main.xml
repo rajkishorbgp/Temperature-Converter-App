@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
     android:orientation="vertical"
+    android:layout_height="match_parent"
     android:background="@color/brickRedColor"
     tools:context=".MainActivity">
-
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
@@ -44,20 +45,23 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginStart="20dp"
-            android:src="@drawable/hot"/>
+            android:src="@drawable/hot"
+            android:contentDescription="@string/convert_to" />
 
         <ImageView
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginStart="20dp"
 
-            android:src="@drawable/sun"/>
+            android:src="@drawable/sun"
+            android:contentDescription="@string/todo" />
         <ImageView
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_marginStart="20dp"
 
-            android:src="@drawable/is_temperature"/>
+            android:src="@drawable/is_temperature"
+            android:contentDescription="@string/todo" />
 
 
     </LinearLayout>
@@ -210,7 +214,6 @@
 
 
     </RelativeLayout>
-
 
 
 </LinearLayout>
