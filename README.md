@@ -30,9 +30,10 @@ Welcome to the Temperature Converter App repository! This versatile app allows y
 - Framework: Android SDK
 
 ## Screenshots
+<img align="right" alt="Coding" width="200" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/TemperatureConverterApp/0.jpg">
+<img align="right" alt="Coding" width="200" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/TemperatureConverterApp/1.jpg">
+<img align="right" alt="Coding" width="200" src="https://github.com/rajkishorbgp/my-personal-data-/blob/main/AndroidProjects/TemperatureConverterApp/2.jpg">
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Contributing
 
